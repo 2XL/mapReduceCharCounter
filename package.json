@@ -1,0 +1,24 @@
+{
+  "name": "mapReduceCharCounter",
+  "version": "1.0.0",
+  "description": "map reduce testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2XL/mapReduceCharCounter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "map",
+    "reduce"
+  ],
+  "author": "copy-paste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2XL/mapReduceCharCounter/issues"
+  },
+  "homepage": "https://github.com/2XL/mapReduceCharCounter"
+}
